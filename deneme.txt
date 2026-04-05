@@ -1,1 +1,12 @@
-"deneme" 
+def main():
+
+   print("deneme")
+
+def main_two():
+        main()
+        print("deneme2")
+
+
+
+if __name__ == '__main__':
+     main()
