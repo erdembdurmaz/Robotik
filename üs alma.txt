@@ -1,0 +1,13 @@
+def main():
+   
+   print(2 ** 9)
+   usalma_yap()
+
+def usalma_yap():
+    sonuc = 2 ** 9
+    print("İşlemin sonucu:", sonuc)
+
+
+
+if __name__ == '__main__':
+     main()
