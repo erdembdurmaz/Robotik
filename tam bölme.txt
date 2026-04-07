@@ -1,0 +1,13 @@
+def main():
+   
+   print(20 // 9)
+   tambolme_yap()
+
+def tambolme_yap():
+    sonuc = 20 // 9
+    print("İşlemin sonucu:", sonuc)
+
+
+
+if __name__ == '__main__':
+     main()
