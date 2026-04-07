@@ -1,0 +1,13 @@
+def main():
+   
+   print(20/10)
+   bolme_yap()
+
+def bolme_yap():
+    sonuc = 20 / 10
+    print("İşlemin sonucu:", sonuc)
+
+
+
+if __name__ == '__main__':
+     main()
